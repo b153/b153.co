@@ -1,2 +1,2 @@
 # b153.co
-B153.co static site host.
+This is the placeholder file for b153.co blog.
