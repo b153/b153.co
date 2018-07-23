@@ -1,5 +1,5 @@
-title = "Airspace for Hugo"
-baseURL = "https://www.example.com"
+title = "Airspace for B153"
+baseURL = "https://b153.co"
 languageCode = "en-us"
 theme = "airspace-hugo"
 
