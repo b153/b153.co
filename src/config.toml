@@ -1,8 +1,8 @@
 title = "Airspace for B153"
-baseURL = "https://b153.co"
+baseURL = "https://b153.co/"
 languageCode = "en-us"
 theme = "airspace-hugo"
-
+publishDir = "../"
 [menu]
 
   [[menu.header]]

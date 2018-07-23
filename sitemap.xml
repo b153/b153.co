@@ -3,123 +3,123 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.example.com/blog/migrate-from-jekyll/</loc>
+    <loc>https://b153.co/blog/migrate-from-jekyll/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.com/blog/linked-post/</loc>
+    <loc>https://b153.co/blog/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.com/blog/go-is-for-lovers/</loc>
+    <loc>https://b153.co/blog/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.com/blog/hugo-is-for-lovers/</loc>
+    <loc>https://b153.co/blog/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.com/blog/creating-a-new-theme/</loc>
+    <loc>https://b153.co/blog/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.com/</loc>
+    <loc>https://b153.co/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.com/blog/</loc>
+    <loc>https://b153.co/blog/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.com/categories/</loc>
+    <loc>https://b153.co/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.com/contact/</loc>
+    <loc>https://b153.co/contact/</loc>
   </url>
   
   <url>
-    <loc>https://www.example.com/tags/go/</loc>
+    <loc>https://b153.co/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.com/tags/golang/</loc>
+    <loc>https://b153.co/tags/golang/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.com/tags/hugo/</loc>
+    <loc>https://b153.co/tags/hugo/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.com/tags/ipsum/</loc>
+    <loc>https://b153.co/tags/ipsum/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.com/categories/lorem/</loc>
+    <loc>https://b153.co/categories/lorem/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.com/tags/programming/</loc>
+    <loc>https://b153.co/tags/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.com/categories/programming/</loc>
+    <loc>https://b153.co/categories/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.com/categories/pseudo/</loc>
+    <loc>https://b153.co/categories/pseudo/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.com/service/</loc>
+    <loc>https://b153.co/service/</loc>
   </url>
   
   <url>
-    <loc>https://www.example.com/categories/starting/</loc>
+    <loc>https://b153.co/categories/starting/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.com/tags/</loc>
+    <loc>https://b153.co/tags/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.com/tags/theme/</loc>
+    <loc>https://b153.co/tags/theme/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.com/work/</loc>
+    <loc>https://b153.co/work/</loc>
   </url>
   
 </urlset>
