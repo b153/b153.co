@@ -1,5 +1,5 @@
 +++
-title = "Creating a new theme"
+title = "The IT Solution to Data Analytics"
 date = "2015-06-24T13:50:46+02:00"
 tags = ["theme"]
 categories = ["starting"]

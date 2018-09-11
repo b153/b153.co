@@ -23,7 +23,7 @@ publishDir = "../"
     name = "Contact"
     url = "/contact"
 
-  
+
   [[menu.footer]]
     weight = 2
     name = "Contact us"
@@ -32,7 +32,7 @@ publishDir = "../"
     weight = 4
     name = "Blog"
     url = "/blog"
-  
+
 
 # The site's parameters
 [params]
@@ -53,8 +53,8 @@ publishDir = "../"
   [params.wrapper]
     enable = true
     title = "About Us"
-    italic = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-    paragraph = "This is where the about us content should be."
+    italic = "At b153 we believe that all organizations have the capacity to leverage data to drive decision making. Organizations often have large amounts of data but lack the knowledge, skills, and expertise to ensure its appropriate use. Building a data analytics program allows organizations to capitalize on this asset and operate with increased efficiency, transparency, and insight."
+    paragraph = ""
 
   [params.blog]
     enable = true
@@ -63,8 +63,8 @@ publishDir = "../"
 
   [params.feature]
     enable = false
-    title = "We believe in great ideas"
-    content = "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+    title = "We believe data is invaluable"
+    content = "Take your business to the next level."
     [params.feature.button]
       caption = "View Works"
       url = "#"
@@ -87,7 +87,7 @@ publishDir = "../"
     [params.contact.box]
       title = "Stop by for a visit"
       address = "Calgary, Alberta"
-      email = "Email: info@b153.co"
+      email = "Email: admin@b153.ca"
       phone = "Phone: +1.587.228.6320"
     [params.contact.gmaps]
       title = "We Also Count in Google Maps"

@@ -4,17 +4,17 @@ subtitle: >
   Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics
 content:
 
-  - icon: ion-coffee
-    name: Data Analytics Consulting
+  - icon: ion-image
+    name: Data science
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      Leverage your data through critical thinking, math and technology
 
   - icon: ion-compass
-    name: Data Operations and Planning Consulting
+    name: Consulting Services
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      Data is a core asset. Build it into your business strategy.
 
-  - icon: ion-image
-    name: Data Management Solutions
+  - icon: ion-coffee
+    name: Data Management
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+          Data Governance, Architechture, Modeling and Design, Database Storage and Management, Data Security, Data Integration, Documents and Content, Metadata, and Data Quality.
